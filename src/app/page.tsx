@@ -1,103 +1,166 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
-
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+    <div className="min-h-screen">
+      {/* Hero Section */}
+      <section className="relative h-[80vh] flex items-center">
+        <div className="absolute inset-0 z-0">
+          <Image
+            src="/images/hero-bg.jpg" 
+            alt="Rubén Machaen"
+            fill
+            style={{ objectFit: 'cover', objectPosition: 'center' }}
+            priority
+            className="brightness-[0.4]"
+          />
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+          <div className="max-w-3xl">
+            <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-6 leading-tight">
+              Rubén Machaen
+            </h1>
+            <h2 className="text-xl sm:text-2xl md:text-3xl text-white/90 mb-8">
+              Periodista, escritor y docente venezolano/mexicano
+            </h2>
+            <div className="flex flex-wrap gap-4">
+              <Link 
+                href="/biografia" 
+                className="px-6 py-3 bg-accent text-white rounded-md hover:bg-accent/90 transition shadow-lg"
+              >
+                Conocer más
+              </Link>
+              <Link 
+                href="/portafolio" 
+                className="px-6 py-3 bg-transparent border border-white text-white rounded-md hover:bg-white/10 transition"
+              >
+                Ver portafolio
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Quote Section */}
+      <section className="py-16 bg-tertiary/10">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+          <blockquote className="quote max-w-3xl mx-auto text-xl md:text-2xl text-foreground/90 text-center">
+            "La escritura es un puente entre mundos, una forma de explorar la realidad a través de la imaginación y la observación crítica."
+            <footer className="mt-4 text-right text-foreground/70 text-base">— Rubén Machaen</footer>
+          </blockquote>
+        </div>
+      </section>
+
+      {/* Featured Works */}
+      <section className="py-16">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-3xl font-bold mb-12 text-center">Trabajos destacados</h2>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {/* Featured Work 1 */}
+            <div className="article-card bg-background rounded-lg overflow-hidden shadow-md border border-tertiary/20">
+              <div className="relative h-48">
+                <Image
+                  src="/images/article1.jpg"
+                  alt="Soundtracks (Rocolas que no existen)"
+                  fill
+                  style={{ objectFit: 'cover' }}
+                />
+              </div>
+              <div className="p-6">
+                <h3 className="text-xl font-semibold mb-2">Soundtracks (Rocolas que no existen)</h3>
+                <p className="text-foreground/70 mb-4">Novela publicada en 2017 con la editorial Ígneo, explorando la relación entre la música y la memoria.</p>
+                <Link href="/articulos/soundtracks" className="text-accent hover:text-accent/80 font-medium">
+                  Leer más →
+                </Link>
+              </div>
+            </div>
+            
+            {/* Featured Work 2 */}
+            <div className="article-card bg-background rounded-lg overflow-hidden shadow-md border border-tertiary/20">
+              <div className="relative h-48">
+                <Image
+                  src="/images/article2.jpg"
+                  alt="Venezolanos en Chile: Tren al Sur"
+                  fill
+                  style={{ objectFit: 'cover' }}
+                />
+              </div>
+              <div className="p-6">
+                <h3 className="text-xl font-semibold mb-2">Venezolanos en Chile: Tren al Sur</h3>
+                <p className="text-foreground/70 mb-4">Reportaje sobre la migración venezolana hacia Chile, publicado en El Estímulo.</p>
+                <Link href="/articulos/venezolanos-chile" className="text-accent hover:text-accent/80 font-medium">
+                  Leer más →
+                </Link>
+              </div>
+            </div>
+            
+            {/* Featured Work 3 */}
+            <div className="article-card bg-background rounded-lg overflow-hidden shadow-md border border-tertiary/20">
+              <div className="relative h-48">
+                <Image
+                  src="/images/article3.jpg"
+                  alt="Fulanito y sus quejas domingueras"
+                  fill
+                  style={{ objectFit: 'cover' }}
+                />
+              </div>
+              <div className="p-6">
+                <h3 className="text-xl font-semibold mb-2">Fulanito y sus quejas domingueras</h3>
+                <p className="text-foreground/70 mb-4">Relato publicado en la revista de la Biblioteca Nacional Argentina en Buenos Aires.</p>
+                <Link href="/articulos/fulanito" className="text-accent hover:text-accent/80 font-medium">
+                  Leer más →
+                </Link>
+              </div>
+            </div>
+          </div>
+          
+          <div className="mt-12 text-center">
+            <Link 
+              href="/portafolio" 
+              className="px-6 py-3 bg-accent text-white rounded-md hover:bg-accent/90 transition shadow-md inline-block"
+            >
+              Ver todo el portafolio
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* About Section */}
+      <section className="py-16 bg-foreground/5">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex flex-col md:flex-row items-center gap-12">
+            <div className="md:w-1/2">
+              <div className="relative w-full aspect-[3/4] max-w-md mx-auto">
+                <Image
+                  src="/images/ruben-portrait.jpg"
+                  alt="Rubén Machaen"
+                  fill
+                  style={{ objectFit: 'cover' }}
+                  className="rounded-lg shadow-xl"
+                />
+              </div>
+            </div>
+            
+            <div className="md:w-1/2">
+              <h2 className="text-3xl font-bold mb-6">Sobre mí</h2>
+              <p className="text-foreground/80 mb-4">
+                Periodista, escritor y docente venezolano/mexicano. Cursé estudios literarios en Buenos Aires y he dictado cátedras de géneros periodísticos en la Universidad Monteávila, en Caracas, e Innovación y estructura periodística en la Universidad Anáhuac, en México.
+              </p>
+              <p className="text-foreground/80 mb-6">
+                He colaborado en medios internacionales como El Espectador (Colombia), La Tempestad y Tercera Vía (México), ViceVersa (New York) y El Estímulo (Venezuela).
+              </p>
+              <Link 
+                href="/biografia" 
+                className="px-6 py-3 bg-accent text-white rounded-md hover:bg-accent/90 transition shadow-md inline-block"
+              >
+                Biografía completa
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
     </div>
   );
 }
