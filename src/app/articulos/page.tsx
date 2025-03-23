@@ -50,13 +50,31 @@ export default function Articulos() {
     },
     {
       id: 5,
+      title: "El Proceso contra Econoinvest: Intervención y Controversia",
+      category: "journalism",
+      image: "https://placehold.co/600x400/b08968/ffffff?text=Econoinvest",
+      date: "15 de septiembre, 2010",
+      excerpt: "Reportaje sobre la intervención gubernamental a la casa de bolsa más grande de Venezuela, publicado en la revista Exceso.",
+      link: "/articulos/econoinvest",
+    },
+    {
+      id: 6,
       title: "Silencios: Otra historia que nunca fue",
       category: "journalism",
       image: "https://placehold.co/600x400/4a7c59/ffffff?text=Silencios",
-      date: "5 de marzo, 2019",
-      excerpt: "Reportaje sobre las historias no contadas de la migración venezolana en Latinoamérica.",
+      date: "19 de marzo, 2019",
+      excerpt: "Reflexiones sobre los silencios históricos y mediáticos en América Latina.",
       link: "/articulos/silencios",
     },
+    {
+      id: 7,
+      title: "La Tigresa del Oriente: De Garras Tomar",
+      category: "journalism",
+      image: "https://placehold.co/600x400/d9a679/ffffff?text=La+Tigresa+del+Oriente",
+      date: "12 de abril, 2011",
+      excerpt: "Perfil sobre el fenómeno musical peruano que conquistó internet y se convirtió en un ícono de la cultura popular latinoamericana.",
+      link: "/articulos/tigresa-oriente",
+    }
   ];
 
   return (

@@ -50,6 +50,15 @@ export default function Portafolio() {
     },
     {
       id: 5,
+      title: "El Proceso contra Econoinvest: Intervención y Controversia",
+      category: "journalism",
+      image: "https://placehold.co/600x400/b08968/ffffff?text=Econoinvest",
+      year: "2010",
+      publisher: "Revista Exceso",
+      link: "/articulos/econoinvest",
+    },
+    {
+      id: 6,
       title: "Silencios: Otra historia que nunca fue",
       category: "journalism",
       image: "https://placehold.co/600x400/4a7c59/ffffff?text=Silencios",
@@ -58,13 +67,22 @@ export default function Portafolio() {
       link: "/articulos/silencios",
     },
     {
-      id: 6,
+      id: 7,
       title: "Fulanito y sus quejas domingueras",
       category: "literature",
       image: "https://placehold.co/600x400/c9ada7/ffffff?text=Fulanito",
       year: "2012",
       publisher: "Biblioteca de Babel",
       link: "/articulos/fulanito",
+    },
+    {
+      id: 8,
+      title: "La Tigresa del Oriente: De Garras Tomar",
+      category: "journalism",
+      image: "https://placehold.co/600x400/d9a679/ffffff?text=La+Tigresa+del+Oriente",
+      year: "2011",
+      publisher: "Revista Cultural",
+      link: "/articulos/tigresa-oriente",
     },
   ];
 

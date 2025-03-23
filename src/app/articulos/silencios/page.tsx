@@ -88,6 +88,22 @@ export default function ArticuloSilencios() {
           <div className="mt-12 pt-8 border-t border-tertiary/20">
             <h3 className="text-xl font-semibold mb-6">Artículos relacionados</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              <Link href="/articulos/econoinvest" className="group">
+                <div className="flex items-center">
+                  <div className="relative w-20 h-20 rounded overflow-hidden mr-4">
+                    <Image
+                      src="https://placehold.co/200x200/b08968/ffffff?text=Econoinvest"
+                      alt="El Proceso contra Econoinvest: Intervención y Controversia"
+                      fill
+                      style={{ objectFit: 'cover' }}
+                    />
+                  </div>
+                  <div>
+                    <h4 className="font-medium group-hover:text-accent transition">El Proceso contra Econoinvest</h4>
+                    <p className="text-sm text-foreground/60">Periodismo</p>
+                  </div>
+                </div>
+              </Link>
               <Link href="/articulos/identidad-latinoamericana" className="group">
                 <div className="flex items-center">
                   <div className="relative w-20 h-20 rounded overflow-hidden mr-4">
