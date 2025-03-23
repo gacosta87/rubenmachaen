@@ -42,26 +42,26 @@ export default function ArticuloVenezolanos() {
           </div>
           
           {/* Contenido del artículo */}
-          <div className="prose mx-auto">
-            <p className="text-xl font-medium mb-6">
+          <div className="prose mx-auto space-y-6">
+            <p className="text-xl font-medium mb-8">
               Reportaje sobre la migración venezolana hacia Chile, publicado originalmente en El Estímulo en agosto de 2015.
             </p>
             
-            <p>
+            <p className="mb-6">
               Santiago de Chile, agosto de 2015. En la estación central, entre el bullicio de los viajeros y vendedores ambulantes, Carlos Mendoza espera el tren que lo llevará al sur del país. Tiene 34 años y hace apenas tres meses dejó atrás Caracas, la ciudad que lo vio nacer y crecer.
             </p>
             
-            <p>
+            <p className="mb-6">
               &ldquo;Nunca pensé que terminaría aquí&rdquo;, confiesa mientras observa el tablero de salidas. &ldquo;En Venezuela era ingeniero petrolero, tenía un buen trabajo, pero la situación se volvió insostenible. La inseguridad, la escasez... llegó un punto en que no veía futuro&rdquo;.
             </p>
             
-            <p>
+            <p className="mb-6">
               Carlos forma parte de una ola migratoria que ha transformado el panorama demográfico de Chile en los últimos años. Según cifras del Departamento de Extranjería y Migración, la comunidad venezolana en el país austral ha crecido exponencialmente, pasando de apenas 2.000 residentes en 2014 a más de 20.000 en 2015.
             </p>
             
             <h2>El nuevo destino</h2>
             
-            <p>
+            <p className="mb-6">
               Históricamente, los venezolanos que emigraban elegían Estados Unidos o España como destinos principales. Sin embargo, la estabilidad económica de Chile, sumada a políticas migratorias relativamente accesibles, ha convertido al país en una alternativa atractiva para profesionales venezolanos.
             </p>
             
@@ -69,7 +69,7 @@ export default function ArticuloVenezolanos() {
               &ldquo;Chile representa lo que Venezuela fue hace décadas: un país con oportunidades, donde el esfuerzo se traduce en progreso&rdquo;, explica María Gabriela Ponce, socióloga de la Universidad Católica Andrés Bello.
             </blockquote>
             
-            <p>
+            <p className="mb-6">
               En el barrio Providencia de Santiago, las voces con acento caribeño se multiplican. Restaurantes de comida venezolana han comenzado a aparecer, ofreciendo arepas, tequeños y pabellón criollo a una clientela mixta de chilenos curiosos y venezolanos nostálgicos.
             </p>
             
@@ -83,33 +83,33 @@ export default function ArticuloVenezolanos() {
               </ul>
             </div>
             
-            <p>
+            <p className="mb-6">
               De vuelta en la estación, Carlos revisa su teléfono. Tiene un mensaje de su nuevo empleador en Concepción, donde comenzará a trabajar en una empresa de servicios petroleros. &ldquo;No es lo mismo que tenía en PDVSA, pero es un comienzo&rdquo;, dice con una mezcla de resignación y esperanza.
             </p>
             
-            <p>
+            <p className="mb-6">
               A su lado, una maleta contiene las pocas pertenencias que pudo traer consigo. Entre ellas, una pequeña bandera venezolana y un álbum de fotos familiares. &ldquo;Lo más difícil es dejar atrás a la familia. Mis padres son mayores y no quisieron venir. Espero poder traerlos pronto&rdquo;.
             </p>
             
             <h2>Adaptación e identidad</h2>
             
-            <p>
+            <p className="mb-6">
               La integración de los venezolanos en la sociedad chilena presenta desafíos particulares. Si bien comparten el idioma, las diferencias culturales son notables. El carácter reservado de los chilenos contrasta con la extroversión caribeña, y el clima frío del sur representa un shock para quienes están acostumbrados al calor tropical.
             </p>
             
-            <p>
+            <p className="mb-6">
               &ldquo;Al principio todo es difícil&rdquo;, explica Verónica Martínez, psicóloga venezolana que dirige un grupo de apoyo para inmigrantes en Santiago. &ldquo;Muchos llegan con altas expectativas y se enfrentan a una realidad donde, a pesar de sus calificaciones, deben comenzar desde cero&rdquo;.
             </p>
             
-            <p>
+            <p className="mb-6">
               Sin embargo, la resiliencia parece ser un rasgo común entre estos nuevos migrantes. Organizaciones como &ldquo;Venezolanos en Chile&rdquo; han surgido para facilitar la adaptación, ofreciendo desde asesoría legal hasta espacios de encuentro donde mantener vivas las tradiciones.
             </p>
             
-            <p>
+            <p className="mb-6">
               El tren de Carlos está a punto de partir. Mientras aborda, reflexiona sobre su futuro: &ldquo;Venezuela siempre será mi hogar, pero ahora debo construir una nueva vida aquí. Quizás algún día pueda regresar, cuando las cosas cambien&rdquo;.
             </p>
             
-            <p>
+            <p className="mb-6">
               El tren comienza a moverse, llevándolo hacia el sur, hacia un destino incierto pero lleno de posibilidades. Como él, miles de venezolanos emprenden cada día un viaje similar, dejando atrás un país en crisis pero llevando consigo la esperanza de un futuro mejor.
             </p>
           </div>

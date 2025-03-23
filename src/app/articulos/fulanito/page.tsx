@@ -42,72 +42,72 @@ export default function ArticuloFulanito() {
           </div>
           
           {/* Contenido del artículo */}
-          <div className="prose mx-auto">
-            <p className="text-xl font-medium mb-6">
+          <div className="prose mx-auto space-y-6">
+            <p className="text-xl font-medium mb-8">
               Relato publicado en la revista de la Biblioteca Nacional Argentina en Buenos Aires.
             </p>
             
-            <p>
+            <p className="mb-6">
               Fulanito se despertó como cada domingo: malhumorado. No era para menos. Los domingos eran, para él, el recordatorio semanal de que el lunes estaba a la vuelta de la esquina, acechando con su rutina implacable y sus obligaciones tediosas.
             </p>
             
-            <p>
+            <p className="mb-6">
               —¡Qué desgracia! —exclamó mientras se servía café en una taza desportillada que se negaba a reemplazar por pura obstinación—. Otro domingo más en esta ciudad infernal.
             </p>
             
-            <p>
+            <p className="mb-6">
               La ciudad, por supuesto, no tenía nada de infernal. De hecho, era bastante agradable, con sus parques bien cuidados y sus cafeterías de esquina donde el aroma del pan recién horneado se mezclaba con las conversaciones matutinas. Pero Fulanito había decidido, hacía ya tiempo, que todo a su alrededor era motivo de queja.
             </p>
             
-            <p>
+            <p className="mb-6">
               Encendió la radio. El locutor anunciaba un día soleado y perfecto para actividades al aire libre.
             </p>
             
-            <p>
+            <p className="mb-6">
               —¡Bah! Sol... lo que faltaba —gruñó—. Ahora todos los vecinos saldrán con sus risas escandalosas y sus niños gritones.
             </p>
             
-            <p>
+            <p className="mb-6">
               Se asomó a la ventana. Efectivamente, el parque frente a su edificio comenzaba a llenarse de familias con canastas de picnic y perros juguetones. Fulanito frunció el ceño como si aquella escena de felicidad dominical fuera una ofensa personal.
             </p>
             
-            <p>
+            <p className="mb-6">
               Decidió salir a comprar el periódico, no porque le interesara realmente la actualidad, sino porque era otra oportunidad para coleccionar motivos de indignación. En el camino, una vecina lo saludó con una sonrisa.
             </p>
             
-            <p>
+            <p className="mb-6">
               —¡Buenos días, don Fulanito! ¡Qué hermoso día!
             </p>
             
-            <p>
+            <p className="mb-6">
               —Hmm —respondió él, como si el simple acto de devolver el saludo fuera un esfuerzo sobrehumano.
             </p>
             
-            <p>
+            <p className="mb-6">
               En el quiosco, el titular principal anunciaba el descubrimiento de una cura para una enfermedad hasta entonces intratable. Fulanito resopló.
             </p>
             
-            <p>
+            <p className="mb-6">
               —Seguro es mentira. Y si es verdad, será carísima y solo para ricos.
             </p>
             
-            <p>
+            <p className="mb-6">
               El quiosquero, acostumbrado ya a su cliente dominical más gruñón, sonrió con resignación mientras le daba el cambio.
             </p>
             
-            <p>
+            <p className="mb-6">
               De regreso a casa, Fulanito se detuvo frente a una panadería. El olor a medialunas recién hechas invadió sus sentidos. Por un momento, un brevísimo instante, algo parecido a la felicidad se asomó en su interior. Pero rápidamente lo sofocó con un pensamiento: &ldquo;Seguro están crudas por dentro o demasiado caras&rdquo;.
             </p>
             
-            <p>
+            <p className="mb-6">
               Sin embargo, entró y compró media docena. Ya en casa, mordió una y, para su sorpresa, estaba deliciosa. Perfectamente horneada, con el punto justo de dulzor.
             </p>
             
-            <p>
+            <p className="mb-6">
               —Bueno —murmuró para sí mismo—, al menos algo sale bien en este domingo infernal.
             </p>
             
-            <p>
+            <p className="mb-6">
               Y por un momento, solo por un momento, Fulanito dejó de quejarse y disfrutó del simple placer de una medialuna con café en un domingo soleado. Aunque, por supuesto, jamás lo admitiría.
             </p>
           </div>

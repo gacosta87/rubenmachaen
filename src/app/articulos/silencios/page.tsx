@@ -42,44 +42,44 @@ export default function ArticuloSilencios() {
           </div>
           
           {/* Contenido del artículo */}
-          <div className="prose mx-auto">
-            <p className="text-xl font-medium mb-6">
+          <div className="prose mx-auto space-y-6">
+            <p className="text-xl font-medium mb-8">
               Reflexión sobre los silencios históricos y las narrativas olvidadas en América Latina.
             </p>
             
-            <p>
+            <p className="mb-6">
               La historia de América Latina está llena de silencios. Silencios impuestos, silencios cómplices, silencios que han borrado voces y narrativas enteras. Cuando hablamos de nuestra historia, ¿de qué historia hablamos realmente? ¿De la oficial, escrita por los vencedores? ¿O de aquella que permanece en las sombras, esperando ser contada?
             </p>
             
-            <p>
+            <p className="mb-6">
               Los archivos históricos de nuestros países están repletos de documentos que narran una versión de los hechos, pero ¿qué hay de aquellos acontecimientos que nunca fueron registrados? ¿Qué hay de las voces que fueron silenciadas antes de poder dejar testimonio?
             </p>
             
-            <p>
+            <p className="mb-6">
               En mi recorrido como periodista por distintos países de la región, he encontrado historias que existen en los márgenes, relatos transmitidos oralmente de generación en generación que contradicen la versión oficial. Comunidades enteras que guardan memoria de masacres nunca reconocidas, de resistencias heroicas nunca celebradas, de líderes cuyos nombres fueron borrados de los libros.
             </p>
             
-            <p>
+            <p className="mb-6">
               El silencio ha sido una herramienta de poder. Silenciar al otro es negarlo, es convertirlo en no-existente. Y cuando ese silenciamiento se institucionaliza, cuando forma parte de una política sistemática, se convierte en una forma de violencia histórica que perdura en el tiempo.
             </p>
             
-            <p>
+            <p className="mb-6">
               En Venezuela, mi país natal, he sido testigo de cómo la polarización política ha generado nuevos silencios. Dependiendo de quién cuente la historia reciente, ciertos hechos son amplificados mientras otros son minimizados o directamente negados. La verdad se fragmenta según la ideología, y en ese proceso, algo esencial se pierde: la complejidad de nuestra realidad.
             </p>
             
-            <p>
+            <p className="mb-6">
               Lo mismo ocurre en Chile, mi país adoptivo, donde el silencio sobre ciertos aspectos de la dictadura sigue siendo un tema no resuelto. ¿Cómo construir un futuro común cuando partes fundamentales del pasado permanecen en disputa o en silencio?
             </p>
             
-            <p>
+            <p className="mb-6">
               El periodismo tiene una responsabilidad fundamental en la ruptura de estos silencios. No se trata solo de informar sobre el presente, sino de contribuir a una comprensión más completa y honesta de nuestro pasado. Cada vez que damos voz a quienes fueron silenciados, cada vez que iluminamos un rincón oscurecido de nuestra historia, estamos contribuyendo a una narrativa más justa y verdadera.
             </p>
             
-            <p>
+            <p className="mb-6">
               Porque los silencios no son vacíos; están llenos de historias no contadas, de verdades incómodas, de realidades que exigen ser reconocidas. Y solo reconociendo esos silencios, solo nombrando lo innombrado, podremos comenzar a construir una memoria colectiva que no excluya, que no niegue, que no borre.
             </p>
             
-            <p>
+            <p className="mb-6">
               Esta es la otra historia, la que nunca fue oficialmente, pero que existe en los márgenes, en las memorias, en los testimonios que se resisten a desaparecer. Y es nuestra responsabilidad, como sociedad, escucharla.
             </p>
           </div>

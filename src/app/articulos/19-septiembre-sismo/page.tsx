@@ -42,56 +42,56 @@ export default function ArticuloSismo() {
           </div>
           
           {/* Contenido del artículo */}
-          <div className="prose mx-auto">
-            <p className="text-xl font-medium mb-6">
+          <div className="prose mx-auto space-y-6">
+            <p className="text-xl font-medium mb-8">
               Crónica sobre el terremoto del 19 de septiembre de 2017 en Ciudad de México, publicada originalmente en El Universal.
             </p>
             
-            <p>
+            <p className="mb-6">
               Ciudad de México, 19 de septiembre de 2017, 13:14 horas. La tierra comienza a moverse. Al principio, como siempre, hay incredulidad. ¿Es realmente un sismo o solo mi imaginación? Pero segundos después, la duda se disipa cuando el movimiento se intensifica. Las alarmas sísmicas, que deberían haber sonado antes, comienzan a aullar cuando el temblor ya es innegable.
             </p>
             
-            <p>
+            <p className="mb-6">
               Me encontraba en un café del centro histórico cuando ocurrió. La coincidencia no escapa a nadie: exactamente 32 años después del devastador terremoto de 1985, en el mismo día en que, horas antes, se había realizado un simulacro nacional. Como si la tierra tuviera memoria y quisiera recordarnos su poder precisamente en esta fecha.
             </p>
             
-            <p>
+            <p className="mb-6">
               El café se vacía en segundos. Todos saben qué hacer: alejarse de ventanas y objetos que puedan caer, buscar las columnas, mantener la calma. Pero mantener la calma es casi imposible cuando el suelo bajo tus pies, eso que das por sentado como lo más estable en tu vida, se mueve como si fuera líquido.
             </p>
             
-            <p>
+            <p className="mb-6">
               En la calle, el caos. Edificios que se balancean visiblemente, cristales que estallan, alarmas de autos que se activan simultáneamente creando una cacofonía siniestra. Y la gente, mucha gente, en medio de las calles, algunos de rodillas, otros abrazados, muchos con el teléfono en la mano intentando comunicarse con sus seres queridos.
             </p>
             
-            <p>
+            <p className="mb-6">
               &ldquo;¡Se cayó un edificio en la Condesa!&rdquo;, grita alguien. Las noticias comienzan a llegar de boca en boca, luego por redes sociales, después por los medios. Edificios colapsados en Álvaro Obregón, en Chimalpopoca, en Bolívar. Personas atrapadas. Llamados desesperados de ayuda.
             </p>
             
-            <p>
+            <p className="mb-6">
               Y entonces ocurre algo extraordinario: la ciudad, a menudo criticada por su individualismo y prisa, se transforma. De repente, miles de personas se organizan espontáneamente. Cadenas humanas pasan cubetas con escombros. Jóvenes con cascos y guantes improvisan rescates. Vecinos abren sus casas para ofrecer baños, agua, electricidad para cargar teléfonos. Restaurantes se convierten en centros de acopio. Médicos y enfermeras acuden voluntariamente a los puntos críticos.
             </p>
             
-            <p>
+            <p className="mb-6">
               En las horas siguientes, recorro varios puntos afectados. En cada uno, la misma escena: cientos de voluntarios, muchos de ellos jóvenes, trabajando incansablemente. &ldquo;¡Silencio!&rdquo;, gritan de pronto, y todos callan, intentando escuchar voces bajo los escombros. Cuando alguien es rescatado con vida, aplausos y lágrimas. Cuando se recupera un cuerpo sin vida, un silencio respetuoso y doloroso.
             </p>
             
-            <p>
+            <p className="mb-6">
               La noche cae sobre una ciudad herida pero no derrotada. Las luces de los rescatistas iluminan los puntos donde aún hay esperanza de encontrar sobrevivientes. Nadie quiere irse a casa. &ldquo;Si alguien está ahí abajo, no lo vamos a abandonar&rdquo;, me dice un joven estudiante de ingeniería que lleva horas removiendo escombros.
             </p>
             
-            <p>
+            <p className="mb-6">
               Los días siguientes son una mezcla de dolor y solidaridad. Las historias de heroísmo cotidiano se multiplican: el taquero que alimenta gratis a rescatistas, la señora que prepara café toda la noche para quienes trabajan en los escombros, los ciclistas que recorren la ciudad llevando medicinas, los traductores voluntarios que ayudan a los equipos internacionales de rescate.
             </p>
             
-            <p>
+            <p className="mb-6">
               También hay historias desgarradoras: padres que esperan días enteros frente a escuelas colapsadas, mensajes de texto enviados desde bajo los escombros que poco a poco dejan de responderse, la impotencia de saber que hay personas con vida atrapadas a las que no se puede llegar a tiempo.
             </p>
             
-            <p>
+            <p className="mb-6">
               Una semana después, mientras escribo estas líneas, la ciudad intenta recuperar cierta normalidad, aunque nada será igual. Hay un antes y un después del 19S. En medio del dolor, sin embargo, queda una certeza: la extraordinaria capacidad de esta ciudad para levantarse, para tender la mano, para convertir la tragedia en un recordatorio de nuestra humanidad compartida.
             </p>
             
-            <p>
+            <p className="mb-6">
               Como dijo una rescatista voluntaria: &ldquo;La tierra nos sacudió para recordarnos que estamos todos juntos en esto&rdquo;. Y vaya que lo recordamos.
             </p>
           </div>

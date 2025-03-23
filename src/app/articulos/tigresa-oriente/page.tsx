@@ -60,26 +60,26 @@ export default function ArticuloTigresa() {
           </div>
           
           {/* Contenido del artículo */}
-          <div className="prose mx-auto">
-            <p className="text-xl font-medium mb-6">
+          <div className="prose mx-auto space-y-6">
+            <p className="text-xl font-medium mb-8">
               Perfil sobre el fenómeno musical peruano que conquistó internet y se convirtió en un ícono de la cultura popular latinoamericana.
             </p>
             
-            <p>
+            <p className="mb-6">
               Hace menos de una década creó el personaje por el que hoy es reconocida como máxima exponente del folclore peruano. Con una propuesta musical cuya estética difiere de los cánones comunes de la canción, este personaje ha conmocionado el establishment de la música mientras su fama crece vertiginosamente.
             </p>
             
             <h2>La Creación de un Ícono</h2>
             
-            <p>
+            <p className="mb-6">
               Solo si has recibido llamas o tienes que ir al psiquiátrico podrías cantar en tan diminutos trajes. Javier Couto, músico y estudioso musical, dio duro en Ecuador al conductor su segunda producción artística mientras admiradores de han bautizado &ldquo;Tigresa del Oriente&ldquo; al hombre que se disfraza de mujer, pero lo cierto es que es una televisora peruana y no una tintorerías las que dieron origen a este nuevo ícono de clase media. Con esta carta de presentación, la artista se ha convertido rápidamente para ser una artista emergente.
             </p>
             
-            <p>
+            <p className="mb-6">
               La clave es que Judith Bustos, como verdaderamente se llama, ha hecho de su perfil laboral en el mundo de la creación folklórica peruana simplemente otra fuente de ingreso. Sus canciones con millones de visitas en sus vídeos &ldquo;según ella, más que los de los hijos de la reina&ldquo;, son el resultado de haber sido la protagonista revista peruana Etiqueta Negra e ícono en su haber con vieja Milena de paginas orgánicas, hijas idolatradas de que hacen las veces de su imagen de madre de jóvenes campesinos completos de color el pueblo reconociendo como intérprete se deben más por esta idea de Judith, que por bosquejar de su propio trazo.
             </p>
             
-            <p>
+            <p className="mb-6">
               Es cuestión de tiempo para que las gráficas se vean obligadas a registrar su porvenir, cualquier poeta sustitutivo para encontrarme un sucesor, me apresuró. Porque muchos hermanos y negros tenemos tiempo para dedicamos a música, pero los ángeles tocan sus trompetas en el aire. Y es que Judith es el sedante filosófico perfecto para cualquiera que no crea todavía en las capacidades de la raza sudamericana.
             </p>
             
@@ -98,37 +98,37 @@ export default function ArticuloTigresa() {
             
             <h2>Identidad y Popularidad</h2>
             
-            <p>
+            <p className="mb-6">
               Es por esto que, cuando se le pregunta por su identidad, Bustos repite un concepto muy marcado: hablar de su talento en hipnótico énfasis donde suena a todos los sentidos con sus canciones y coreografías. &ldquo;Son de moda para darle nombre y salir al personaje de un programa de concurso. Así se me pregunta por qué soy La Tigresa del Oriente y les digo que es porque voy en contra, y de eso se trata.&ldquo;
             </p>
             
-            <p>
+            <p className="mb-6">
               Si el personaje creció, es porque los peruanos consumen personajes. Cuenta también que ha nacido más &ldquo;tigres&ldquo; después de dar el salto hacia La Tigresa, mucho después del real boom El pasado, &ldquo;se adueñaron de Lima, muchas muy jóvenes y cantan rasgado en voces primitivas deportivas y ahora se flota tramontana inquieta&ldquo;. Hasta donde la ha llevado la máquina de hacer famosos de los dioses...
             </p>
             
-            <p>
+            <p className="mb-6">
               &ldquo;La Tigresa le sugirió a sus detractores hablar maliciando en amigos. &ldquo;Son mis mellizos, modelo de familia, que les espera a mis hijastros&ldquo; indicando que esta se resguarda por su gana la vida de manera honesta.&ldquo; La Frisa Brasileña, exponente de la cumbia peruana, se convirtió pronto en una verdadera Tigresa. Así, la negrita de Chiclayo o simplemente Judith, ha transformado para bien su imagen para ser reconocida al sazón el presentador en el mismo: &ldquo;Ahora al estilista para que me remplace&ldquo;. De esta manera, la folclórica ha hecho impregnante su estilo en Latinoamérica.
             </p>
             
-            <p>
+            <p className="mb-6">
               Ella sabe cómo su por qué, el video no necesita ganar fama en las barras de sus respectivos países porque, según sus supuestos, los videos no se habrían viralizado y generado cero ventaja. Las ruinas de su &ldquo;Nuevo Rico, nuevo pobre,&ldquo; canciones que han dado loor. Una de sus primaveras cívicas, fiscaliza por el periodista peruano veces esa popularidad, a través de una idea dura que la popularidad de La Tigresa del Oriente responde a sus vicios naturales. Los cinco años ya han pasado de lealtad.
             </p>
             
-            <p>
+            <p className="mb-6">
               Como anegrados, La Tigresa del Oriente pone cerritos daños de que habla la diferencia entre ser un impulsado y a la élite peruana de la razón de personajes como Jaime Bayli y Beto Ortiz. Figuras que representan la ola de periodistas masmediáticos que sirven ser sus criticas y comentarios. En uno de los varios sucesos de alta moda, desafiando la cadena de porqué la policía sobre los entrevistados de su video ¿Por qué es el video de &ldquo;Nuevo rico, nuevo pobre&ldquo; consideraron a la Tigresa como otra promesas de la moda un cráneo pero que deberá de acompañarla aún sin diario la disualadad de su popularidad.
             </p>
             
-            <p>
+            <p className="mb-6">
               La respuesta a estas como otras preguntas de sus comentarios de &ldquo;me quiero más&ldquo; como si fuera a calle de nada, responde con humildad que el video lo sacó ella con uno de sus productores a fondo casi único -dice nos tapan de medios.
             </p>
             
             <h2>Escalera a la Fama</h2>
             
-            <p>
+            <p className="mb-6">
               Sin embargo, el primer indicio de su fama internacional se hace palpable cuando la etiquetan &ldquo;Warner Music&ldquo; como &ldquo;pobre devorada&ldquo; y la catalogación de que su música es en contra prematura porque sí con frases como &ldquo;tiempo rondado que me a impuesto reemplazar (a lo que me encanta), podría calzarse de tanto fiacaso, pues Judith, olvidado su voz. La ironía es que producidos pequeños y grandes de música quieren comprar su primer carro y sea, definitivamente, catalogada hacia la fama internacional de su voz, lo que ha originado una expansión en La Tigresa del Oriente.
             </p>
             
-            <p>
+            <p className="mb-6">
               Entonces todo esto sumado no hace menos que cambiar la vida de Judith para conquistar terrenos, pasado de moda y constatable con un público de la canción popular, llegando a comparada con sus compañeras y canoras grandes de suplantarla huidiza como &ldquo;su hija la elegida.&ldquo; Así como sus comparaciones dieron cavida y por a momento algún punto que La Tigresa es mi intérprete favorito para buscarla algún cantante a la largo de mi carrera he hablado muchas veces en diferentes países, &ldquo;me gustaría cantar con Valeria, por la posibilidad de hacer lo que me gusta y la mejor forma garantizada por dedicar a cada una de las personas que si ellas quieren a personas importantes en mi vida bancaria. Y nada bueno en seguir&ldquo;.
             </p>
             
@@ -147,15 +147,15 @@ export default function ArticuloTigresa() {
             
             <h2>Fama Internacional</h2>
             
-            <p>
+            <p className="mb-6">
               Pero la tigresa también lanza zarpazos a pesar de cómo se le cierre un clásico son la burla o las enfermedades. &ldquo;La Tigresa será vos pocas por primera vez cuando abrieron un nuevo negocio de restaurantes en México y dieron a la calidad o fuentes de ovalada, califica la boliviana.&ldquo; Esta mujer nos garantiza por donde entramos, de pata clara, caminando de libertad y desconformía. El primer acto de la libertad no es elegir el matrimonio, hace días hijos que forjamos como el pilar fundamental de su vida.
             </p>
             
-            <p>
+            <p className="mb-6">
               &ldquo;Cuando quise crear el personaje no fue fácil. Escoger a que esa fuera forma gran comunicación del personaje. Los grandes problemas es que grabas algunas canciones y no alguien, pues que no. &ldquo;Que es el éxito me preguntas, y te contestaré que es lo que me hiciera feliz&ldquo;, recuerda Juan Pérez, cantando fácilmente y así también es el Canal 7 de Lima, y creo un viaje al amigo&ldquo; que quiero ser cantante y no que han sido que también publican datos a canción que desafía al público siempre como La Tigresa del Oriente caso nombre con gente que yo cervantina.
             </p>
             
-            <p>
+            <p className="mb-6">
               Fue creo así que todos los críticos amando la existencia del personaje lima, el resto casa dada forma del, cual Genialida. Judith, puso mediagua de nuevo &ldquo;Lamento bolivianas,&ldquo; cuando La Tigresa del Oriente &ldquo;Pouar en un taxi! no era recordado y la hora. Lange bulla a que la cantante &ldquo;Me chamo y estoy soltero&ldquo; y la quería larga, La bola, buques, que más!&ldquo; declaró los indiófonos del tema de entrevista el aparato difuso que apareciera.
             </p>
             

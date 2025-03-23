@@ -42,16 +42,16 @@ export default function ArticuloSoundtracks() {
           </div>
           
           {/* Contenido del artículo */}
-          <div className="prose mx-auto">
-            <p className="text-xl font-medium mb-6">
+          <div className="prose mx-auto space-y-6">
+            <p className="text-xl font-medium mb-8">
               Fragmento de la novela &ldquo;Soundtracks (Rocolas que no existen)&rdquo; publicada en 2017 con la editorial Ígneo.
             </p>
             
-            <p>
+            <p className="mb-6">
               La música siempre ha sido una constante en mi vida. No recuerdo un solo momento en que no estuviera presente, como un telón de fondo para cada escena importante. Quizás por eso, cuando empecé a escribir esta historia, lo primero que vino a mi mente fue la banda sonora que la acompañaría.
             </p>
             
-            <p>
+            <p className="mb-6">
               Hay canciones que no existen en ningún disco, en ninguna plataforma digital, pero que suenan con claridad en nuestra memoria. Son melodías personales, asociadas a momentos específicos, a personas que ya no están, a lugares que hemos dejado atrás.
             </p>
             
@@ -59,25 +59,25 @@ export default function ArticuloSoundtracks() {
               &ldquo;Las rocolas que no existen son aquellas que solo suenan en nuestra memoria, reproduciendo canciones que nadie más puede escuchar.&rdquo;
             </blockquote>
             
-            <p>
+            <p className="mb-6">
               Carlos caminaba por las calles de Caracas con los auriculares puestos, pero no escuchaba música. Hacía años que había dejado de hacerlo. Prefería el sonido de la ciudad, el caos organizado de bocinas, conversaciones fragmentadas y vendedores ambulantes. Era su forma de mantenerse presente, de no perderse en los recuerdos.
             </p>
             
-            <p>
+            <p className="mb-6">
               Sin embargo, aquella tarde de julio, mientras esperaba el autobús bajo la lluvia, escuchó claramente una melodía que creía olvidada. No venía de ninguna fuente externa, sino de su propia memoria. Era la canción que sonaba la primera vez que vio a Mariana, en aquel café de Buenos Aires donde se refugió de otra tormenta, años atrás.
             </p>
             
             <h2>La memoria musical</h2>
             
-            <p>
+            <p className="mb-6">
               La memoria musical funciona de manera diferente a otros tipos de recuerdos. Es más visceral, más inmediata. Una simple melodía puede transportarnos instantáneamente a otro tiempo, otro lugar, otra versión de nosotros mismos.
             </p>
             
-            <p>
+            <p className="mb-6">
               Para Carlos, cada etapa de su vida tenía una banda sonora específica. La adolescencia en Caracas estaba marcada por el rock latinoamericano de los 90. Sus años universitarios en Buenos Aires se mezclaban con tangos y milongas que nunca llegó a apreciar del todo. Y luego estaba la música que compartió con Mariana, una mezcla ecléctica que iba desde el jazz hasta la electrónica experimental.
             </p>
             
-            <p>
+            <p className="mb-6">
               Pero había una canción en particular que no podía ubicar en ningún álbum, en ningún artista conocido. Una melodía que parecía haber compuesto su propia memoria, una rocola que no existía más que en su cabeza.
             </p>
             
@@ -91,11 +91,11 @@ export default function ArticuloSoundtracks() {
               </p>
             </div>
             
-            <p>
+            <p className="mb-6">
               Cuando el autobús finalmente llegó, Carlos decidió no subir. En su lugar, comenzó a caminar bajo la lluvia, permitiéndose por primera vez en mucho tiempo escuchar aquella banda sonora personal que había intentado silenciar durante años.
             </p>
             
-            <p>
+            <p className="mb-6">
               Quizás era hora de crear nuevas melodías, nuevas rocolas que, aunque no existieran para el resto del mundo, sonarían con claridad en su memoria.
             </p>
           </div>

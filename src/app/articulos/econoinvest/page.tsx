@@ -60,12 +60,12 @@ export default function ArticuloEconoinvest() {
           </div>
           
           {/* Contenido del artículo */}
-          <div className="prose mx-auto">
-            <p className="text-xl font-medium mb-6">
+          <div className="prose mx-auto space-y-6">
+            <p className="text-xl font-medium mb-8">
               Reportaje sobre la intervención gubernamental a la casa de bolsa más grande de Venezuela, publicado originalmente en la revista Exceso.
             </p>
             
-            <p>
+            <p className="mb-6">
               En una operación que recuerda las palabras de Jorge Giordani, entonces Ministro de Planificación y Finanzas, quien declaró que &ldquo;    la misión primaria hay que acabar con los alarmes del sistema financiero&ldquo;, el gobierno venezolano dio inicio a una intervención de gran magnitud contra casas de bolsa, centrándose en Econoinvest, considerada el epicentro de lo que las autoridades llamaron &ldquo;dudosas operaciones&ldquo;.
             </p>
             

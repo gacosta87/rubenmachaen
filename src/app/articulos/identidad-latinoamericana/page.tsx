@@ -42,16 +42,16 @@ export default function ArticuloIdentidad() {
           </div>
           
           {/* Contenido del artículo */}
-          <div className="prose mx-auto">
-            <p className="text-xl font-medium mb-6">
+          <div className="prose mx-auto space-y-6">
+            <p className="text-xl font-medium mb-8">
               Reflexiones sobre la identidad cultural latinoamericana en un mundo interconectado y en constante transformación.
             </p>
             
-            <p>
+            <p className="mb-6">
               Hablar de identidad latinoamericana en el siglo XXI implica adentrarse en un laberinto de contradicciones, hibridaciones y resistencias. En tiempos donde la globalización ha difuminado fronteras y homogeneizado expresiones culturales, cabe preguntarse: ¿qué significa ser latinoamericano hoy?
             </p>
             
-            <p>
+            <p className="mb-6">
               La respuesta no es sencilla ni unívoca. América Latina, ese territorio imaginado que se extiende desde el Río Bravo hasta la Patagonia, nunca ha sido un espacio culturalmente homogéneo. Su riqueza radica precisamente en su diversidad, en ese mosaico de tradiciones indígenas, africanas y europeas que se han entrelazado a lo largo de siglos.
             </p>
             
@@ -59,17 +59,17 @@ export default function ArticuloIdentidad() {
               &ldquo;Somos lo que recordamos, pero también lo que decidimos olvidar. La identidad latinoamericana se construye tanto desde la memoria como desde el olvido selectivo.&rdquo;
             </blockquote>
             
-            <p>
+            <p className="mb-6">
               En la era digital, donde las fronteras físicas parecen diluirse ante el avance de plataformas globales, surge una paradoja interesante: mientras más nos exponemos a contenidos culturales estandarizados, mayor es la necesidad de reafirmar lo local, lo propio, lo distintivo.
             </p>
             
             <h2>Entre lo global y lo local</h2>
             
-            <p>
+            <p className="mb-6">
               El reggaetón, nacido en los márgenes urbanos de Puerto Rico y Panamá, se ha convertido en un fenómeno global que trasciende fronteras. Sin embargo, lejos de ser una simple adopción de modelos extranjeros, representa una apropiación creativa que dialoga tanto con tradiciones musicales latinoamericanas como con ritmos globales.
             </p>
             
-            <p>
+            <p className="mb-6">
               Lo mismo ocurre con expresiones literarias, cinematográficas o gastronómicas. El realismo mágico, que alguna vez fue visto como la quintaesencia de lo latinoamericano, ha dado paso a narrativas urbanas que exploran las contradicciones de megalópolis como Ciudad de México, Bogotá o São Paulo, espacios donde lo global y lo local se entrelazan de formas complejas.
             </p>
             
@@ -80,15 +80,15 @@ export default function ArticuloIdentidad() {
               </p>
             </div>
             
-            <p>
+            <p className="mb-6">
               Quizás la clave para entender la identidad latinoamericana contemporánea no esté en buscar esencias inmutables, sino en reconocer su carácter procesual, dinámico y contradictorio. Somos resultado de múltiples mestizajes, no solo biológicos sino culturales, y nuestra riqueza radica precisamente en esa capacidad de incorporar elementos diversos sin perder cierto sentido de continuidad histórica.
             </p>
             
-            <p>
+            <p className="mb-6">
               Como escribió Octavio Paz: &ldquo;La búsqueda de la modernidad nos llevó a descubrir nuestra antigüedad&rdquo;. Quizás la búsqueda de lo global nos está llevando a redescubrir lo que nos hace únicos, no como esencia inmutable sino como proceso creativo en constante evolución.
             </p>
             
-            <p>
+            <p className="mb-6">
               La identidad latinoamericana no es un punto de llegada sino un camino. Y en ese andar, entre nostalgias y futuros imaginados, seguimos construyendo ese territorio compartido que llamamos América Latina.
             </p>
           </div>

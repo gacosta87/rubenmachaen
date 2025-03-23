@@ -33,7 +33,7 @@ export default function Biografia() {
             </p>
             
             <blockquote className="my-8 pl-6 border-l-4 border-tertiary/60 italic">
-              &ldquo;La escritura es un puente entre culturas, una forma de conectar experiencias y preservar la memoria colectiva a través de las fronteras.&ldquo;
+              &ldquo;La escritura es un puente entre culturas, una forma de conectar experiencias y preservar la memoria colectiva a través de las fronteras.&rdquo;
             </blockquote>
             
             <h3 className="text-2xl font-semibold mt-8 pb-2 border-b border-tertiary/20">Trayectoria profesional</h3>
