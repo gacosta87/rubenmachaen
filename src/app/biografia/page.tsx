@@ -33,7 +33,7 @@ export default function Biografia() {
             </p>
             
             <blockquote className="my-8 pl-6 border-l-4 border-tertiary/60 italic">
-              "La escritura es un puente entre culturas, una forma de conectar experiencias y preservar la memoria colectiva a través de las fronteras."
+              &ldquo;La escritura es un puente entre culturas, una forma de conectar experiencias y preservar la memoria colectiva a través de las fronteras.&ldquo;
             </blockquote>
             
             <h3 className="text-2xl font-semibold mt-8 pb-2 border-b border-tertiary/20">Trayectoria profesional</h3>
@@ -57,7 +57,7 @@ export default function Biografia() {
               <ul className="list-disc pl-5 space-y-2">
                 <li>&ldquo;Fulanito y sus quejas domingueras&rdquo; (2012)</li>
                 <li>&ldquo;Soundtracks (Rocolas que no existen)&rdquo; (2017)</li>
-                <li>&ldquo;Nuevo País de las Artes&rdquo; - Colección "Los rostros de futuro"</li>
+                <li>&ldquo;Nuevo País de las Artes&rdquo; - Colección &ldquo;Los rostros de futuro&rdquo;</li>
               </ul>
             </div>
             
