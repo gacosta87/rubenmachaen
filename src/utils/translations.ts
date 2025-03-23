@@ -140,7 +140,7 @@ export const translations = {
 export type Language = 'es' | 'en';
 
 export function getTranslation(language: Language, path: string) {
-  const keys = path.split('.');
+  const keys = path.split('.');  
   let current: any = translations[language];
   
   for (const key of keys) {

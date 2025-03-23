@@ -1,6 +1,5 @@
 "use client";
-import { useState, useEffect, useRef, useCallback } from "react";
-import Image from "next/image";
+import { useCallback, useEffect, useRef, useState } from "react";
 
 // Tipo para los videos de YouTube
 interface YouTubeVideo {
@@ -92,7 +91,7 @@ export default function Videos() {
         observer.current.disconnect();
       }
     };
-  }, []);
+  }, [fetchVideos]);
 
   return (
     <div className="min-h-screen py-16">
