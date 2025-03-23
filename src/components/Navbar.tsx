@@ -30,6 +30,10 @@ export default function Navbar() {
             <Link href="/articulos" className="nav-link text-foreground hover:text-accent transition">
               Artículos
             </Link>
+            <Link href="/videos" className="nav-link text-foreground hover:text-accent transition flex items-center">
+              Videos
+              <span className="ml-1 px-1.5 py-0.5 text-xs bg-accent text-white rounded-full">Nuevo</span>
+            </Link>
             <Link href="/contacto" className="nav-link text-foreground hover:text-accent transition">
               Contacto
             </Link>
@@ -84,6 +88,14 @@ export default function Navbar() {
               onClick={() => setIsMenuOpen(false)}
             >
               Artículos
+            </Link>
+            <Link 
+              href="/videos" 
+              className="block px-3 py-2 rounded-md text-base font-medium text-foreground hover:text-accent hover:bg-tertiary/10 flex items-center"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Videos
+              <span className="ml-1 px-1.5 py-0.5 text-xs bg-accent text-white rounded-full">Nuevo</span>
             </Link>
             <Link 
               href="/contacto" 

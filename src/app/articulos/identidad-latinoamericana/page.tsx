@@ -101,7 +101,7 @@ export default function ArticuloIdentidad() {
                 <div className="flex items-center">
                   <div className="relative w-20 h-20 rounded overflow-hidden mr-4">
                     <Image
-                      src="https://placehold.co/200x200.jpg/4a7c59/ffffff?text=Silencios"
+                      src="https://placehold.co/200x200/4a7c59/ffffff?text=Silencios"
                       alt="Silencios: Otra historia que nunca fue"
                       fill
                       style={{ objectFit: 'cover' }}
@@ -117,7 +117,7 @@ export default function ArticuloIdentidad() {
                 <div className="flex items-center">
                   <div className="relative w-20 h-20 rounded overflow-hidden mr-4">
                     <Image
-                      src="https://placehold.co/200x200.jpg/8b4513/ffffff?text=Soundtracks"
+                      src="https://placehold.co/200x200/8b4513/ffffff?text=Soundtracks"
                       alt="Soundtracks (Rocolas que no existen)"
                       fill
                       style={{ objectFit: 'cover' }}
