@@ -44,7 +44,7 @@ export default function ArticuloSoundtracks() {
           {/* Contenido del artículo */}
           <div className="prose mx-auto">
             <p className="text-xl font-medium mb-6">
-              Fragmento de la novela "Soundtracks (Rocolas que no existen)" publicada en 2017 con la editorial Ígneo.
+              Fragmento de la novela &ldquo;Soundtracks (Rocolas que no existen)&rdquo; publicada en 2017 con la editorial Ígneo.
             </p>
             
             <p>
@@ -56,7 +56,7 @@ export default function ArticuloSoundtracks() {
             </p>
             
             <blockquote className="quote">
-              "Las rocolas que no existen son aquellas que solo suenan en nuestra memoria, reproduciendo canciones que nadie más puede escuchar."
+              &ldquo;Las rocolas que no existen son aquellas que solo suenan en nuestra memoria, reproduciendo canciones que nadie más puede escuchar.&rdquo;
             </blockquote>
             
             <p>
@@ -84,7 +84,7 @@ export default function ArticuloSoundtracks() {
             <div className="my-8 p-6 bg-tertiary/5 rounded-lg">
               <h3 className="text-xl font-semibold mb-4">Sobre la novela</h3>
               <p className="mb-4">
-                "Soundtracks (Rocolas que no existen)" explora la relación entre la música, la memoria y la identidad a través de la historia de Carlos, un periodista venezolano que recorre diferentes ciudades latinoamericanas mientras lidia con los recuerdos de un amor perdido y un país que ya no existe como lo conocía.
+                &ldquo;Soundtracks (Rocolas que no existen)&rdquo; explora la relación entre la música, la memoria y la identidad a través de la historia de Carlos, un periodista venezolano que recorre diferentes ciudades latinoamericanas mientras lidia con los recuerdos de un amor perdido y un país que ya no existe como lo conocía.
               </p>
               <p>
                 La novela fue publicada en 2017 por la editorial Ígneo y ha sido reconocida por su innovadora estructura narrativa, que se organiza como un álbum musical, con cada capítulo representando una canción diferente.

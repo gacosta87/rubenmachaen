@@ -33,7 +33,7 @@ export default function ArticuloIdentidad() {
           {/* Imagen principal */}
           <div className="mb-12 relative h-[400px] w-full">
             <Image
-              src="https://placehold.co/1200x800/3a5a40/ffffff?text=Identidad+Latinoamericana"
+              src="https://placehold.co/1200x800.jpg/3a5a40/ffffff?text=Identidad+Latinoamericana"
               alt="Identidad latinoamericana"
               fill
               style={{ objectFit: 'cover' }}
@@ -52,70 +52,40 @@ export default function ArticuloIdentidad() {
             </p>
             
             <p>
-              La respuesta, lejos de ser unívoca, se ramifica en múltiples direcciones, como las raíces de un árbol que se extienden bajo tierra, invisibles pero fundamentales para sostener lo que se muestra al exterior.
-            </p>
-            
-            <h2>El espejo fragmentado</h2>
-            
-            <p>
-              Nuestra identidad regional ha sido históricamente un espejo fragmentado donde conviven, no siempre en armonía, lo indígena, lo europeo, lo africano y, más recientemente, influencias globales que llegan a través de pantallas y algoritmos. Somos, como diría García Canclini, culturas híbridas en constante proceso de transformación.
-            </p>
-            
-            <p>
-              Esta hibridación, sin embargo, no debe confundirse con disolución. La globalización no ha borrado las particularidades culturales latinoamericanas, sino que ha creado nuevos espacios donde estas se reconfiguran y adquieren nuevos significados.
+              La respuesta no es sencilla ni unívoca. América Latina, ese territorio imaginado que se extiende desde el Río Bravo hasta la Patagonia, nunca ha sido un espacio culturalmente homogéneo. Su riqueza radica precisamente en su diversidad, en ese mosaico de tradiciones indígenas, africanas y europeas que se han entrelazado a lo largo de siglos.
             </p>
             
             <blockquote className="quote">
-              "Somos lo que recordamos, pero también lo que decidimos olvidar. La identidad latinoamericana se construye tanto en la memoria como en los silencios."
+              &ldquo;Somos lo que recordamos, pero también lo que decidimos olvidar. La identidad latinoamericana se construye tanto desde la memoria como desde el olvido selectivo.&rdquo;
             </blockquote>
             
             <p>
-              En mis viajes por diferentes países de la región, desde México hasta Chile, he observado cómo las nuevas generaciones reinterpretan tradiciones ancestrales a través de lenguajes contemporáneos. Un grafiti que incorpora iconografía maya en Ciudad de México, un festival de música electrónica que samplea ritmos andinos en Bogotá, o una novela que reescribe mitos guaraníes desde la ciencia ficción en Asunción.
+              En la era digital, donde las fronteras físicas parecen diluirse ante el avance de plataformas globales, surge una paradoja interesante: mientras más nos exponemos a contenidos culturales estandarizados, mayor es la necesidad de reafirmar lo local, lo propio, lo distintivo.
             </p>
             
-            <h2>La diáspora como espejo</h2>
+            <h2>Entre lo global y lo local</h2>
             
             <p>
-              Quizás sea en la diáspora donde la identidad latinoamericana adquiere contornos más definidos. Paradójicamente, es lejos de América Latina donde muchos descubren su "latinoamericanidad". En Nueva York, Madrid o Berlín, las diferencias entre un argentino y un colombiano se diluyen frente a experiencias compartidas de migración, nostalgia y adaptación.
+              El reggaetón, nacido en los márgenes urbanos de Puerto Rico y Panamá, se ha convertido en un fenómeno global que trasciende fronteras. Sin embargo, lejos de ser una simple adopción de modelos extranjeros, representa una apropiación creativa que dialoga tanto con tradiciones musicales latinoamericanas como con ritmos globales.
             </p>
             
             <p>
-              Como venezolano que ha vivido en Argentina, México y Estados Unidos, he experimentado esta metamorfosis identitaria. En Buenos Aires me descubrí caribeño, en Ciudad de México me reconocí sudamericano, y en Washington DC me asumí plenamente latinoamericano.
+              Lo mismo ocurre con expresiones literarias, cinematográficas o gastronómicas. El realismo mágico, que alguna vez fue visto como la quintaesencia de lo latinoamericano, ha dado paso a narrativas urbanas que exploran las contradicciones de megalópolis como Ciudad de México, Bogotá o São Paulo, espacios donde lo global y lo local se entrelazan de formas complejas.
             </p>
             
             <div className="my-8 p-6 bg-tertiary/5 rounded-lg">
-              <h3 className="text-xl font-semibold mb-4">Reflexión personal</h3>
+              <h3 className="text-xl font-semibold mb-4">Nota del autor</h3>
               <p>
-                La experiencia migratoria me ha enseñado que la identidad no es un pasaporte ni un acento, sino una forma de relacionarse con el mundo. Ser latinoamericano implica habitar múltiples temporalidades simultáneamente: lo ancestral y lo futurista, lo local y lo global, la tradición y la ruptura.
+                Este ensayo forma parte de una serie de reflexiones sobre la identidad cultural en América Latina, desarrolladas durante mi estancia como investigador visitante en la Universidad de Chile en 2021. Las ideas aquí expresadas han sido discutidas en diversos foros académicos y representan una invitación al diálogo más que conclusiones definitivas.
               </p>
             </div>
             
-            <h2>Literatura como territorio</h2>
-            
             <p>
-              Si existe un espacio donde la identidad latinoamericana ha encontrado su expresión más profunda y compleja, es en la literatura. Desde el realismo mágico hasta las narrativas contemporáneas, nuestros escritores han construido un territorio imaginario donde conviven todas las Américas Latinas posibles.
+              Quizás la clave para entender la identidad latinoamericana contemporánea no esté en buscar esencias inmutables, sino en reconocer su carácter procesual, dinámico y contradictorio. Somos resultado de múltiples mestizajes, no solo biológicos sino culturales, y nuestra riqueza radica precisamente en esa capacidad de incorporar elementos diversos sin perder cierto sentido de continuidad histórica.
             </p>
             
             <p>
-              Cortázar, uno de mis faros literarios, entendió como pocos esta condición fronteriza. En "Rayuela", Horacio Oliveira deambula entre Buenos Aires y París, no solo como espacios geográficos sino como estados mentales, como posibilidades de ser. La identidad, nos sugiere Cortázar, es un juego de rayuela donde saltamos entre casillas, siempre en movimiento, siempre buscando un cielo que se desplaza.
-            </p>
-            
-            <p>
-              Bolaño, por su parte, creó en "Los detectives salvajes" un mapa literario donde México, Chile, España y otros territorios se conectan a través de personajes nómadas que llevan su latinoamericanidad como una marca invisible pero indeleble.
-            </p>
-            
-            <h2>Hacia una identidad en movimiento</h2>
-            
-            <p>
-              Quizás el error ha sido buscar una identidad latinoamericana estática, definida por esencialismos o estereotipos. La verdadera identidad regional reside precisamente en su capacidad de reinventarse, de absorber influencias sin perder un núcleo reconocible pero indefinible.
-            </p>
-            
-            <p>
-              En tiempos de polarización política y resurgimiento de nacionalismos, reivindicar esta identidad fluida y plural resulta no solo un acto cultural sino político. Ser latinoamericano hoy implica rechazar las simplificaciones, abrazar las contradicciones y reconocer que nuestra mayor fortaleza reside en la diversidad.
-            </p>
-            
-            <p>
-              Como escribió Octavio Paz: "La búsqueda de la modernidad nos llevó a descubrir nuestra antigüedad". Quizás la búsqueda de lo global nos está llevando a redescubrir lo que nos hace únicos, no como esencia inmutable sino como proceso creativo en constante evolución.
+              Como escribió Octavio Paz: &ldquo;La búsqueda de la modernidad nos llevó a descubrir nuestra antigüedad&rdquo;. Quizás la búsqueda de lo global nos está llevando a redescubrir lo que nos hace únicos, no como esencia inmutable sino como proceso creativo en constante evolución.
             </p>
             
             <p>
@@ -131,7 +101,7 @@ export default function ArticuloIdentidad() {
                 <div className="flex items-center">
                   <div className="relative w-20 h-20 rounded overflow-hidden mr-4">
                     <Image
-                      src="https://placehold.co/200x200/4a7c59/ffffff?text=Silencios"
+                      src="https://placehold.co/200x200.jpg/4a7c59/ffffff?text=Silencios"
                       alt="Silencios: Otra historia que nunca fue"
                       fill
                       style={{ objectFit: 'cover' }}
@@ -147,7 +117,7 @@ export default function ArticuloIdentidad() {
                 <div className="flex items-center">
                   <div className="relative w-20 h-20 rounded overflow-hidden mr-4">
                     <Image
-                      src="https://placehold.co/200x200/8b4513/ffffff?text=Soundtracks"
+                      src="https://placehold.co/200x200.jpg/8b4513/ffffff?text=Soundtracks"
                       alt="Soundtracks (Rocolas que no existen)"
                       fill
                       style={{ objectFit: 'cover' }}

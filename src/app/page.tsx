@@ -46,7 +46,7 @@ export default function Home() {
       <section className="py-16 bg-tertiary/10">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <blockquote className="quote max-w-3xl mx-auto text-xl md:text-2xl text-foreground/90 text-center">
-            "La escritura es un puente entre mundos, una forma de explorar la realidad a través de la imaginación y la observación crítica."
+            &ldquo;La escritura es un puente entre mundos, una forma de explorar la realidad a través de la imaginación y la observación crítica.&ldquo;
             <footer className="mt-4 text-right text-foreground/70 text-base">— Rubén Machaen</footer>
           </blockquote>
         </div>

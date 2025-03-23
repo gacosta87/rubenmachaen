@@ -31,7 +31,7 @@ export default function Biografia() {
             <h3>Trayectoria profesional</h3>
             
             <p>
-              En Caracas fue reportero de los diarios Tal Cual y El Mundo, y participó en la tercera entrega de la colección "Los rostros de futuro", con el libro Nuevo País de las Artes (Fondo editorial Banesco).
+              En Caracas fue reportero de los diarios Tal Cual y El Mundo, y participó en la tercera entrega de la colección &ldquo;Los rostros de futuro&ldquo;, con el libro &ldquo;Nuevo País de las Artes&ldquo; (Fondo editorial Banesco).
             </p>
             
             <p>
@@ -41,7 +41,7 @@ export default function Biografia() {
             <h3>Obra literaria</h3>
             
             <p>
-              En 2012 publicó el relato "Fulanito y sus quejas domingueras" en la revista de la Biblioteca Nacional Argentina, en Buenos Aires, y en 2017 publicó la novela Soundtracks (Rocolas que no existen) con la editorial Ígneo.
+              En 2012 publicó el relato &ldquo;Fulanito y sus quejas domingueras&ldquo; en la revista de la Biblioteca Nacional Argentina, en Buenos Aires, y en 2017 publicó la novela &ldquo;Soundtracks (Rocolas que no existen)&ldquo; con la editorial Ígneo.
             </p>
             
             <p>
@@ -59,7 +59,7 @@ export default function Biografia() {
             </p>
             
             <blockquote className="quote">
-              "La escritura es un acto de resistencia contra el olvido, una forma de preservar la memoria colectiva y personal en tiempos de cambio constante."
+              &ldquo;La escritura es un acto de resistencia contra el olvido, una forma de preservar la memoria colectiva y personal en tiempos de cambio constante.&rdquo;
             </blockquote>
             
             <h3>Proyectos actuales</h3>
