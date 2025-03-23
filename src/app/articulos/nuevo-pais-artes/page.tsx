@@ -33,7 +33,7 @@ export default function ArticuloNuevoPaisArtes() {
           {/* Imagen principal */}
           <div className="mb-12 relative h-[400px] w-full">
             <Image
-              src="https://placehold.co/1200x800/3a5a40/ffffff?text=Nuevo+País+de+las+Artes"
+              src="https://placehold.co/1200x800/3a5a40/ffffff?text=Artes"
               alt="Nuevo País de las Artes"
               fill
               style={{ objectFit: 'cover' }}

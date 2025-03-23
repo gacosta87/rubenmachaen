@@ -33,7 +33,7 @@ export default function ArticuloVenezolanos() {
           {/* Imagen principal */}
           <div className="mb-12 relative h-[400px] w-full">
             <Image
-              src="https://placehold.co/1200x800.jpg/a98467/ffffff?text=Venezolanos+en+Chile"
+              src="https://placehold.co/1200x800/a98467/ffffff?text=Venezolanos%0Aen+Chile"
               alt="Venezolanos en Chile: Tren al Sur"
               fill
               style={{ objectFit: 'cover' }}

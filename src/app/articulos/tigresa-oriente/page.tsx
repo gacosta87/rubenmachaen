@@ -51,7 +51,7 @@ export default function ArticuloTigresa() {
           {/* Imagen principal */}
           <div className="mb-12 relative h-[400px] w-full">
             <Image
-              src="https://placehold.co/1200x800/d9a679/ffffff?text=La+Tigresa+del+Oriente"
+              src="https://placehold.co/1200x800/d9a679/ffffff?text=La+Tigresa+del+Oriente&font=roboto&size=30"
               alt="La Tigresa del Oriente: De Garras Tomar"
               fill
               style={{ objectFit: 'cover' }}

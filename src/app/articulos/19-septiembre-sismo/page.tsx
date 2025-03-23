@@ -33,7 +33,7 @@ export default function ArticuloSismo() {
           {/* Imagen principal */}
           <div className="mb-12 relative h-[400px] w-full">
             <Image
-              src="https://placehold.co/1200x800/c68c53/ffffff?text=19+de+septiembre:+Sismo"
+              src="https://placehold.co/1200x800/c68c53/ffffff?text=19+de+septiembre%0ASismo"
               alt="19 de septiembre: Sismo"
               fill
               style={{ objectFit: 'cover' }}

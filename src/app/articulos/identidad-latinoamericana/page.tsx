@@ -33,7 +33,7 @@ export default function ArticuloIdentidad() {
           {/* Imagen principal */}
           <div className="mb-12 relative h-[400px] w-full">
             <Image
-              src="https://placehold.co/1200x800.jpg/3a5a40/ffffff?text=Identidad+Latinoamericana"
+              src="https://placehold.co/1200x800/3a5a40/ffffff?text=Identidad%0ALatinoamericana"
               alt="Identidad latinoamericana"
               fill
               style={{ objectFit: 'cover' }}

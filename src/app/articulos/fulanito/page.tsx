@@ -33,7 +33,7 @@ export default function ArticuloFulanito() {
           {/* Imagen principal */}
           <div className="mb-12 relative h-[400px] w-full">
             <Image
-              src="https://placehold.co/1200x800/c9ada7/ffffff?text=Fulanito+y+sus+quejas+domingueras"
+              src="https://placehold.co/1200x800/c9ada7/ffffff?text=Fulanito"
               alt="Fulanito y sus quejas domingueras"
               fill
               style={{ objectFit: 'cover' }}

@@ -33,7 +33,7 @@ export default function ArticuloSoundtracks() {
           {/* Imagen principal */}
           <div className="mb-12 relative h-[400px] w-full">
             <Image
-              src="https://placehold.co/1200x800/8b4513/ffffff?text=Soundtracks+(Rocolas+que+no+existen)"
+              src="https://placehold.co/1200x800/8b4513/ffffff?text=Soundtracks%0ARocolas+que%0Ano+existen"
               alt="Soundtracks (Rocolas que no existen)"
               fill
               style={{ objectFit: 'cover' }}

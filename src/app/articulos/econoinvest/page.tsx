@@ -51,7 +51,7 @@ export default function ArticuloEconoinvest() {
           {/* Imagen principal */}
           <div className="mb-12 relative h-[400px] w-full">
             <Image
-              src="https://placehold.co/1200x800/b08968/ffffff?text=Econoinvest:+Intervención+y+Controversia"
+              src="https://placehold.co/1200x800/b08968/ffffff?text=El+Proceso%0Acontra%0AEconoinvest"
               alt="El Proceso contra Econoinvest: Intervención y Controversia"
               fill
               style={{ objectFit: 'cover' }}
