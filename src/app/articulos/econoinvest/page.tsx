@@ -66,7 +66,7 @@ export default function ArticuloEconoinvest() {
             </p>
             
             <p>
-              En una operación que recuerda las palabras de Jorge Giordani, entonces Ministro de Planificación y Finanzas, quien declaró que "la misión primaria hay que acabar con los alarmes del sistema financiero", el gobierno venezolano dio inicio a una intervención de gran magnitud contra casas de bolsa, centrándose en Econoinvest, considerada el epicentro de lo que las autoridades llamaron "dudosas operaciones".
+              En una operación que recuerda las palabras de Jorge Giordani, entonces Ministro de Planificación y Finanzas, quien declaró que &ldquo;    la misión primaria hay que acabar con los alarmes del sistema financiero&ldquo;, el gobierno venezolano dio inicio a una intervención de gran magnitud contra casas de bolsa, centrándose en Econoinvest, considerada el epicentro de lo que las autoridades llamaron &ldquo;dudosas operaciones&ldquo;.
             </p>
             
             <h2>La Caída de Econoinvest</h2>
@@ -93,7 +93,7 @@ export default function ArticuloEconoinvest() {
             </p>
             
             <p>
-              El Ministerio de Finanzas y la Comisión Nacional de Valores (CNV), bajo liderazgo de Tomás Sánchez, suspendieron la compra y venta de títulos en divisas por supuestas "operaciones dudosas", interviniendo 31 casas de bolsa y sociedades de corretaje por "problemas administrativos".
+              El Ministerio de Finanzas y la Comisión Nacional de Valores (CNV), bajo liderazgo de Tomás Sánchez, suspendieron la compra y venta de títulos en divisas por supuestas &ldquo;operaciones dudosas&ldquo;, interviniendo 31 casas de bolsa y sociedades de corretaje por &ldquo;problemas administrativos&ldquo;.
             </p>
             
             <h2>El Turno de Econoinvest</h2>
@@ -126,7 +126,7 @@ export default function ArticuloEconoinvest() {
             </p>
             
             <p>
-              Según González, Econoinvest era una asociación creada para difundir la cultura bursátil. "Gabriel Otrí fundó hace 15 años un sindicato criminal", y que en el camino reunieron 1,000 personas más para seguir delinquiendo sistemáticamente abierto.
+              Según González, Econoinvest era una asociación creada para difundir la cultura bursátil. &ldquo;Gabriel Otrí fundó hace 15 años un sindicato criminal&ldquo;, y que en el camino reunieron 1,000 personas más para seguir delinquiendo sistemáticamente abierto.
             </p>
             
             <p>
@@ -136,11 +136,11 @@ export default function ArticuloEconoinvest() {
             <h2>La Defensa de Econoinvest</h2>
             
             <p>
-              Los directivos de Econoinvest, incluyendo a José González, vicepresidente, defienden la legalidad de sus operaciones. Según González, las acusaciones contra Econoinvest no tienen fundamento y responden a una agenda ideológica del gobierno. Afirma que "si en un régimen socialista no puede haber casas de bolsa, colóquenlo en el mismo rubro que alimentos podridos, hablando de podredumbres. Y las bolsas sí existirán, solo que ahora será el Estado el dueño".
+              Los directivos de Econoinvest, incluyendo a José González, vicepresidente, defienden la legalidad de sus operaciones. Según González, las acusaciones contra Econoinvest no tienen fundamento y responden a una agenda ideológica del gobierno. Afirma que &ldquo;si en un régimen socialista no puede haber casas de bolsa, colóquenlo en el mismo rubro que alimentos podridos, hablando de podredumbres. Y las bolsas sí existirán, solo que ahora será el Estado el dueño&ldquo;.
             </p>
             
             <p>
-              Y al parecer, González no se equivoca. Andrés Méndez, periodista de VTV, protagonista del programa especial titulado "Capitalismo: La verdadera podredumbre", cita a Lenin en la misma línea, e inicia con una dramatización de The Shining, para luego dar tribuna a esta frontera que explaya sus "labores investigativas" sobre el caso Econoinvest.
+              Y al parecer, González no se equivoca. Andrés Méndez, periodista de VTV, protagonista del programa especial titulado &ldquo;Capitalismo: La verdadera podredumbre&ldquo;, cita a Lenin en la misma línea, e inicia con una dramatización de The Shining, para luego dar tribuna a esta frontera que explaya sus &ldquo;labores investigativas&ldquo; sobre el caso Econoinvest.
             </p>
             
             <div className="my-8 relative h-[300px] w-full rounded-lg overflow-hidden">
@@ -167,15 +167,15 @@ export default function ArticuloEconoinvest() {
             </p>
             
             <p>
-              Econoinvest fue acusada principalmente de comercialización ilícita de divisas. González explica: "La empresa transaba títulos valores que eventualmente se convertían en divisas. Desde la reforma de la Ley de Ilícitos Cambiarios en abril de 2010, cesó la adquisición de estos títulos".
+              Econoinvest fue acusada principalmente de comercialización ilícita de divisas. González explica: &ldquo;La empresa transaba títulos valores que eventualmente se convertían en divisas. Desde la reforma de la Ley de Ilícitos Cambiarios en abril de 2010, cesó la adquisición de estos títulos&ldquo;.
             </p>
             
             <p>
-              Por ser la casa de bolsa más grande de Venezuela, se especula que gozaba del favor de funcionarios de PDVSA en la emisión de bonos de 2007. González responde: "Econoinvest creció mucho. Tenía una red de distribución muy amplia, sin embargo, en la emisión se trabajó simultáneamente con 14 instituciones financieras".
+              Por ser la casa de bolsa más grande de Venezuela, se especula que gozaba del favor de funcionarios de PDVSA en la emisión de bonos de 2007. González responde: &ldquo;Econoinvest creció mucho. Tenía una red de distribución muy amplia, sin embargo, en la emisión se trabajó simultáneamente con 14 instituciones financieras&ldquo;.
             </p>
             
             <p>
-              Según las autoridades, Econoinvest se hizo de una comisión de 300 millones de dólares en la emisión de bonos de 2007. González refuta: "En la convocatoria estuvieron todas las instituciones financieras del país, exceptuando dos. Consta en documentos que la comisión de Econoinvest fue de 3,5 millones de dólares".
+              Según las autoridades, Econoinvest se hizo de una comisión de 300 millones de dólares en la emisión de bonos de 2007. González refuta: &ldquo;En la convocatoria estuvieron todas las instituciones financieras del país, exceptuando dos. Consta en documentos que la comisión de Econoinvest fue de 3,5 millones de dólares&ldquo;.
             </p>
             
             <p>
@@ -185,7 +185,7 @@ export default function ArticuloEconoinvest() {
             <h2>El Destino de Econoinvest</h2>
             
             <p>
-              Desde Nueva York, González divisa que la posible liquidación de Econoinvest, además de responder a una agenda ideológica, tiene intereses subalternos. "No me cabe duda de que mediante la liquidación de Econoinvest se pretende tapar el comercio de títulos que en 15 años de operaciones nunca ha tenido problemas de solvencia; se habla de problemas legales y administrativos, pero no de patrimonio. En ninguna sanción administrativa aplica la liquidación", comenta.
+              Desde Nueva York, González divisa que la posible liquidación de Econoinvest, además de responder a una agenda ideológica, tiene intereses subalternos. &ldquo;No me cabe duda de que mediante la liquidación de Econoinvest se pretende tapar el comercio de títulos que en 15 años de operaciones nunca ha tenido problemas de solvencia; se habla de problemas legales y administrativos, pero no de patrimonio. En ninguna sanción administrativa aplica la liquidación&ldquo;, comenta.
             </p>
             
             <div className="my-8 relative h-[300px] w-full rounded-lg overflow-hidden">
@@ -204,11 +204,11 @@ export default function ArticuloEconoinvest() {
             <h2>Las Consecuencias</h2>
             
             <p>
-              El 18 de agosto se anunció la liquidación de Econoinvest. El gobierno no solo despejó del escenario a la casa de bolsa más grande de Venezuela, sino que también anunció una oferta de deuda denominada "Bono Amortizable Soberano 2022" por 3,000 millones de dólares, buscando destinar el 50% a empresas inscritas en CADIVI (Comisión de Administración de Divisas).
+              El 18 de agosto se anunció la liquidación de Econoinvest. El gobierno no solo despejó del escenario a la casa de bolsa más grande de Venezuela, sino que también anunció una oferta de deuda denominada &ldquo;Bono Amortizable Soberano 2022&ldquo; por 3,000 millones de dólares, buscando destinar el 50% a empresas inscritas en CADIVI (Comisión de Administración de Divisas).
             </p>
             
             <p>
-              Confirmando el allanamiento, mientras la interventora Nahuimar Casalli anunciaba el 18 de agosto la liquidación de Econoinvest, el pasado 9 de agosto el Estado dio a conocer una oferta de deuda denominada "Bono Amortizable Soberano 2022" con el objetivo de financiar el déficit fiscal del ejercicio económico 2010.
+              Confirmando el allanamiento, mientras la interventora Nahuimar Casalli anunciaba el 18 de agosto la liquidación de Econoinvest, el pasado 9 de agosto el Estado dio a conocer una oferta de deuda denominada &ldquo;Bono Amortizable Soberano 2022&ldquo; con el objetivo de financiar el déficit fiscal del ejercicio económico 2010.
             </p>
             
             <p>
