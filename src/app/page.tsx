@@ -1,7 +1,12 @@
+"use client";
+
 import Image from "next/image";
 import Link from "next/link";
+import { useTranslation } from "@/hooks/useTranslation";
 
 export default function Home() {
+  const { t } = useTranslation();
+
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
@@ -22,20 +27,20 @@ export default function Home() {
               Rubén Machaen
             </h1>
             <h2 className="text-xl sm:text-2xl md:text-3xl text-white/90 mb-8">
-              Periodista, escritor y docente venezolano/mexicano
+              {t('home.hero.subtitle')}
             </h2>
             <div className="flex flex-wrap gap-4 mb-8">
               <Link 
                 href="/biografia" 
                 className="px-6 py-3 bg-accent text-white rounded-md hover:bg-accent/90 transition shadow-lg"
               >
-                Conocer más
+                {t('home.hero.cta.primary')}
               </Link>
               <Link 
                 href="/portafolio" 
                 className="px-6 py-3 bg-transparent border border-white text-white rounded-md hover:bg-white/10 transition"
               >
-                Ver portafolio
+                {t('home.hero.cta.secondary')}
               </Link>
             </div>
             
@@ -66,7 +71,7 @@ export default function Home() {
                 </div>
                 <div className="flex flex-col">
                   <span className="text-white font-medium">Breaking Mainstream</span>
-                  <span className="text-white/70 text-xs">Ver canal de YouTube</span>
+                  <span className="text-white/70 text-xs">{t('home.youtube.cta')}</span>
                 </div>
               </a>
             </div>
@@ -78,7 +83,7 @@ export default function Home() {
       <section className="py-16 bg-tertiary/10">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <blockquote className="quote max-w-3xl mx-auto text-xl md:text-2xl text-foreground/90 text-center">
-            &ldquo;La escritura es un puente entre mundos, una forma de explorar la realidad a través de la imaginación y la observación crítica.&ldquo;
+            &ldquo;{t('home.quote')}&ldquo;
             <footer className="mt-4 text-right text-foreground/70 text-base">— Rubén Machaen</footer>
           </blockquote>
         </div>
@@ -87,7 +92,7 @@ export default function Home() {
       {/* Featured Works */}
       <section className="py-16">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-bold mb-12 text-center">Trabajos destacados</h2>
+          <h2 className="text-3xl font-bold mb-12 text-center">{t('home.featuredWorks.title')}</h2>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {/* Featured Work 1 */}
@@ -95,16 +100,16 @@ export default function Home() {
               <div className="relative h-48">
                 <Image
                   src="https://placehold.co/600x400/8b4513/ffffff?text=Soundtracks"
-                  alt="Soundtracks (Rocolas que no existen)"
+                  alt={t('home.featuredWorks.articles.soundtracks.title')}
                   fill
                   style={{ objectFit: 'cover' }}
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-semibold mb-2">Soundtracks (Rocolas que no existen)</h3>
-                <p className="text-foreground/70 mb-4">Novela publicada en 2017 con la editorial Ígneo, explorando la relación entre la música y la memoria.</p>
+                <h3 className="text-xl font-semibold mb-2">{t('home.featuredWorks.articles.soundtracks.title')}</h3>
+                <p className="text-foreground/70 mb-4">{t('home.featuredWorks.articles.soundtracks.description')}</p>
                 <Link href="/articulos/soundtracks" className="text-accent hover:text-accent/80 font-medium">
-                  Leer más →
+                  {t('home.featuredWorks.cta')}
                 </Link>
               </div>
             </div>
@@ -114,16 +119,16 @@ export default function Home() {
               <div className="relative h-48">
                 <Image
                   src="https://placehold.co/600x400/a98467/ffffff?text=Venezolanos+en+Chile"
-                  alt="Venezolanos en Chile: Tren al Sur"
+                  alt={t('home.featuredWorks.articles.venezolanos.title')}
                   fill
                   style={{ objectFit: 'cover' }}
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-semibold mb-2">Venezolanos en Chile: Tren al Sur</h3>
-                <p className="text-foreground/70 mb-4">Reportaje sobre la migración venezolana hacia Chile, publicado en El Estímulo.</p>
+                <h3 className="text-xl font-semibold mb-2">{t('home.featuredWorks.articles.venezolanos.title')}</h3>
+                <p className="text-foreground/70 mb-4">{t('home.featuredWorks.articles.venezolanos.description')}</p>
                 <Link href="/articulos/venezolanos-chile" className="text-accent hover:text-accent/80 font-medium">
-                  Leer más →
+                  {t('home.featuredWorks.cta')}
                 </Link>
               </div>
             </div>
@@ -133,16 +138,16 @@ export default function Home() {
               <div className="relative h-48">
                 <Image
                   src="https://placehold.co/600x400/3a5a40/ffffff?text=Identidad+Latinoamericana"
-                  alt="La identidad latinoamericana en tiempos de globalización"
+                  alt={t('home.featuredWorks.articles.fulanito.title')}
                   fill
                   style={{ objectFit: 'cover' }}
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-semibold mb-2">Fulanito y sus quejas domingueras</h3>
-                <p className="text-foreground/70 mb-4">Relato publicado en la revista de la Biblioteca Nacional Argentina en Buenos Aires.</p>
+                <h3 className="text-xl font-semibold mb-2">{t('home.featuredWorks.articles.fulanito.title')}</h3>
+                <p className="text-foreground/70 mb-4">{t('home.featuredWorks.articles.fulanito.description')}</p>
                 <Link href="/articulos/fulanito" className="text-accent hover:text-accent/80 font-medium">
-                  Leer más →
+                  {t('home.featuredWorks.cta')}
                 </Link>
               </div>
             </div>
@@ -153,7 +158,7 @@ export default function Home() {
               href="/portafolio" 
               className="px-6 py-3 bg-accent text-white rounded-md hover:bg-accent/90 transition shadow-md inline-block"
             >
-              Ver todo el portafolio
+              {t('home.featuredWorks.viewAll')}
             </Link>
           </div>
         </div>
@@ -176,18 +181,18 @@ export default function Home() {
             </div>
             
             <div className="md:w-1/2">
-              <h2 className="text-3xl font-bold mb-6">Sobre mí</h2>
+              <h2 className="text-3xl font-bold mb-6">{t('home.about.title')}</h2>
               <p className="text-foreground/80 mb-4">
-                Periodista, escritor y docente venezolano/mexicano. Cursé estudios literarios en Buenos Aires y he dictado cátedras de géneros periodísticos en la Universidad Monteávila, en Caracas, e Innovación y estructura periodística en la Universidad Anáhuac, en México.
+                {t('home.about.bio.part1')}
               </p>
               <p className="text-foreground/80 mb-6">
-                He colaborado en medios internacionales como El Espectador (Colombia), La Tempestad y Tercera Vía (México), ViceVersa (New York) y El Estímulo (Venezuela).
+                {t('home.about.bio.part2')}
               </p>
               <Link 
                 href="/biografia" 
                 className="px-6 py-3 bg-accent text-white rounded-md hover:bg-accent/90 transition shadow-md inline-block"
               >
-                Biografía completa
+                {t('home.about.cta')}
               </Link>
             </div>
           </div>
