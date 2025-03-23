@@ -8,7 +8,7 @@ export default function Home() {
       <section className="relative h-[80vh] flex items-center">
         <div className="absolute inset-0 z-0">
           <Image
-            src="https://images.unsplash.com/photo-1517971071642-34a2d3ecc9cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80"
+            src="/images/hero.jpg"
             alt="Rubén Machaen"
             fill
             style={{ objectFit: 'cover', objectPosition: 'center' }}
@@ -134,7 +134,7 @@ export default function Home() {
             <div className="md:w-1/2">
               <div className="relative w-full aspect-[3/4] max-w-md mx-auto">
                 <Image
-                  src="https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80"
+                  src="/images/ruben-portrait.jpg"
                   alt="Rubén Machaen"
                   fill
                   style={{ objectFit: 'cover' }}
