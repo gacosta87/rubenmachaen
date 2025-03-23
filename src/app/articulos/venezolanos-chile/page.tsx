@@ -13,7 +13,7 @@ export default function ArticuloVenezolanos() {
               <div className="flex items-center">
                 <div className="relative w-12 h-12 rounded-full overflow-hidden mr-4">
                   <Image
-                    src="/images/ruben-avatar.jpg"
+                    src="https://placehold.co/200x200/8b4513/ffffff?text=RM"
                     alt="Rubén Machaen"
                     fill
                     style={{ objectFit: 'cover' }}
@@ -33,7 +33,7 @@ export default function ArticuloVenezolanos() {
           {/* Imagen principal */}
           <div className="mb-12 relative h-[400px] w-full">
             <Image
-              src="/images/article2-full.jpg"
+              src="https://placehold.co/1200x800/a98467/ffffff?text=Venezolanos+en+Chile"
               alt="Venezolanos en Chile: Tren al Sur"
               fill
               style={{ objectFit: 'cover' }}
@@ -155,7 +155,7 @@ export default function ArticuloVenezolanos() {
                 <div className="flex items-center">
                   <div className="relative w-20 h-20 rounded overflow-hidden mr-4">
                     <Image
-                      src="/images/article4.jpg"
+                      src="https://placehold.co/200x200/c68c53/ffffff?text=Sismo"
                       alt="19 de septiembre: Sismo"
                       fill
                       style={{ objectFit: 'cover' }}
@@ -171,7 +171,7 @@ export default function ArticuloVenezolanos() {
                 <div className="flex items-center">
                   <div className="relative w-20 h-20 rounded overflow-hidden mr-4">
                     <Image
-                      src="/images/article5.jpg"
+                      src="https://placehold.co/200x200/4a7c59/ffffff?text=Silencios"
                       alt="Silencios: Otra historia que nunca fue"
                       fill
                       style={{ objectFit: 'cover' }}

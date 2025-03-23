@@ -8,7 +8,7 @@ export default function Home() {
       <section className="relative h-[80vh] flex items-center">
         <div className="absolute inset-0 z-0">
           <Image
-            src="/images/hero-bg.jpg" 
+            src="https://images.unsplash.com/photo-1517971071642-34a2d3ecc9cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80"
             alt="Rubén Machaen"
             fill
             style={{ objectFit: 'cover', objectPosition: 'center' }}
@@ -62,7 +62,7 @@ export default function Home() {
             <div className="article-card bg-background rounded-lg overflow-hidden shadow-md border border-tertiary/20">
               <div className="relative h-48">
                 <Image
-                  src="/images/article1.jpg"
+                  src="https://placehold.co/600x400/8b4513/ffffff?text=Soundtracks"
                   alt="Soundtracks (Rocolas que no existen)"
                   fill
                   style={{ objectFit: 'cover' }}
@@ -81,7 +81,7 @@ export default function Home() {
             <div className="article-card bg-background rounded-lg overflow-hidden shadow-md border border-tertiary/20">
               <div className="relative h-48">
                 <Image
-                  src="/images/article2.jpg"
+                  src="https://placehold.co/600x400/a98467/ffffff?text=Venezolanos+en+Chile"
                   alt="Venezolanos en Chile: Tren al Sur"
                   fill
                   style={{ objectFit: 'cover' }}
@@ -100,8 +100,8 @@ export default function Home() {
             <div className="article-card bg-background rounded-lg overflow-hidden shadow-md border border-tertiary/20">
               <div className="relative h-48">
                 <Image
-                  src="/images/article3.jpg"
-                  alt="Fulanito y sus quejas domingueras"
+                  src="https://placehold.co/600x400/3a5a40/ffffff?text=Identidad+Latinoamericana"
+                  alt="La identidad latinoamericana en tiempos de globalización"
                   fill
                   style={{ objectFit: 'cover' }}
                 />
@@ -134,7 +134,7 @@ export default function Home() {
             <div className="md:w-1/2">
               <div className="relative w-full aspect-[3/4] max-w-md mx-auto">
                 <Image
-                  src="/images/ruben-portrait.jpg"
+                  src="https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80"
                   alt="Rubén Machaen"
                   fill
                   style={{ objectFit: 'cover' }}

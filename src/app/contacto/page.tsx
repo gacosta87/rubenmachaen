@@ -72,8 +72,8 @@ export default function Contacto() {
               </div>
             </div>
             
-            <div className="md:w-1/2">
-              <div className="bg-background rounded-lg shadow-md border border-tertiary/20 p-8 mb-8">
+            <div className="md:w-1/2 space-y-8">
+              <div className="bg-background rounded-lg shadow-md border border-tertiary/20 p-8">
                 <h2 className="text-2xl font-semibold mb-6">Información de contacto</h2>
                 
                 <div className="space-y-4">

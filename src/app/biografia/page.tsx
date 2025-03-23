@@ -9,7 +9,7 @@ export default function Biografia() {
           
           <div className="mb-12 relative h-[400px] w-full">
             <Image
-              src="/images/ruben-wide.jpg"
+              src="https://placehold.co/1200x800/8b4513/ffffff?text=Rubén+Machaen+Biografía"
               alt="Rubén Machaen"
               fill
               style={{ objectFit: 'cover' }}

@@ -13,7 +13,7 @@ export default function ArticuloIdentidad() {
               <div className="flex items-center">
                 <div className="relative w-12 h-12 rounded-full overflow-hidden mr-4">
                   <Image
-                    src="/images/ruben-avatar.jpg"
+                    src="https://placehold.co/200x200/8b4513/ffffff?text=RM"
                     alt="Rubén Machaen"
                     fill
                     style={{ objectFit: 'cover' }}
@@ -33,7 +33,7 @@ export default function ArticuloIdentidad() {
           {/* Imagen principal */}
           <div className="mb-12 relative h-[400px] w-full">
             <Image
-              src="/images/article10-full.jpg"
+              src="https://placehold.co/1200x800/3a5a40/ffffff?text=Identidad+Latinoamericana"
               alt="Identidad latinoamericana"
               fill
               style={{ objectFit: 'cover' }}
@@ -131,7 +131,7 @@ export default function ArticuloIdentidad() {
                 <div className="flex items-center">
                   <div className="relative w-20 h-20 rounded overflow-hidden mr-4">
                     <Image
-                      src="/images/article5.jpg"
+                      src="https://placehold.co/200x200/4a7c59/ffffff?text=Silencios"
                       alt="Silencios: Otra historia que nunca fue"
                       fill
                       style={{ objectFit: 'cover' }}
@@ -147,7 +147,7 @@ export default function ArticuloIdentidad() {
                 <div className="flex items-center">
                   <div className="relative w-20 h-20 rounded overflow-hidden mr-4">
                     <Image
-                      src="/images/article1.jpg"
+                      src="https://placehold.co/200x200/8b4513/ffffff?text=Soundtracks"
                       alt="Soundtracks (Rocolas que no existen)"
                       fill
                       style={{ objectFit: 'cover' }}

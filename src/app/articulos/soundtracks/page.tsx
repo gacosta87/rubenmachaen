@@ -13,7 +13,7 @@ export default function ArticuloSoundtracks() {
               <div className="flex items-center">
                 <div className="relative w-12 h-12 rounded-full overflow-hidden mr-4">
                   <Image
-                    src="/images/ruben-avatar.jpg"
+                    src="https://placehold.co/200x200/8b4513/ffffff?text=RM"
                     alt="Rubén Machaen"
                     fill
                     style={{ objectFit: 'cover' }}
@@ -33,7 +33,7 @@ export default function ArticuloSoundtracks() {
           {/* Imagen principal */}
           <div className="mb-12 relative h-[400px] w-full">
             <Image
-              src="/images/article1-full.jpg"
+              src="https://placehold.co/1200x800/8b4513/ffffff?text=Soundtracks+(Rocolas+que+no+existen)"
               alt="Soundtracks (Rocolas que no existen)"
               fill
               style={{ objectFit: 'cover' }}
@@ -108,7 +108,7 @@ export default function ArticuloSoundtracks() {
                 <div className="flex items-center">
                   <div className="relative w-20 h-20 rounded overflow-hidden mr-4">
                     <Image
-                      src="/images/article3.jpg"
+                      src="https://placehold.co/200x200/c9ada7/ffffff?text=Fulanito"
                       alt="Fulanito y sus quejas domingueras"
                       fill
                       style={{ objectFit: 'cover' }}
@@ -124,7 +124,7 @@ export default function ArticuloSoundtracks() {
                 <div className="flex items-center">
                   <div className="relative w-20 h-20 rounded overflow-hidden mr-4">
                     <Image
-                      src="/images/article7.jpg"
+                      src="https://placehold.co/200x200/3a5a40/ffffff?text=Artes"
                       alt="Nuevo País de las Artes"
                       fill
                       style={{ objectFit: 'cover' }}
